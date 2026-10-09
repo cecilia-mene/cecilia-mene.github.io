@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Il mio portfolio</title>
+</head>
+<body>
+  <h1>Ciao, sono Cecilia Mene</h1>
+  <p>Una breve presentazione di te.</p>
+
+  <h2>Progetti</h2>
+  <ul>
+    <li><a href="https://github.com/cecilia-mene/progetto-awc">Progetto 1</a> – cosa fa</li>
+    <li><a href="https://github.com/tuousername/progetto2">Progetto 2</a> – cosa fa</li>
+  </ul>
+</body>
+</html>
